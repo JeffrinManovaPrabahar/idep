@@ -1,0 +1,7 @@
+{
+  "name": "install-dep",
+  "version": "1.0.1",
+  "bin": {
+    "idep": "./installDep.js"
+  }
+}
